@@ -1,4 +1,4 @@
-# Gemini AI Chatbot - Maju Bareng AI Capstone Project
+# Gemini AI Chatbot
 
 This project is a simple yet powerful web-based chatbot that integrates with Google's Gemini AI (specifically the `gemini-1.5-flash` model) to provide dynamic, human-like responses. It was built as the final capstone project for the "Maju Bareng AI" training program by Hacktiv8.
 
